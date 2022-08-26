@@ -1,5 +1,9 @@
 ![cooltext418016261668605](https://user-images.githubusercontent.com/99371695/186826515-1d7f0bcd-8299-4619-998e-47ac7b4687c2.gif)
 
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+
+![](GHLogoTMP.png)
+
 ### Hi there 👋
 
 Soy estudiante de la carrera de Ingenieria en Sistemas Computacionales
