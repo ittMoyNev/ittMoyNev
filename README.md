@@ -9,6 +9,10 @@ Cursando: 8vo Semestre
 Progress: |█████████████████████████████████████████████-----| 90.0% Complete
 
 
+| Hora    | Lunes | Martes | Miercoles | Jueves |
+|---------|-------|--------|-----------|--------|
+| 5:00 PM | 311   | Lab    | 311       | Lab    |
+
 
 | Lenguajes en proceso | %  |
 |----------------------|----|
