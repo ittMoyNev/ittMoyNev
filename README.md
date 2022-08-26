@@ -1,4 +1,4 @@
-![](https://r72.cooltext.com/rendered/cooltext418016261668605.gif)
+![](https://image.cooltext.com/rendered/cooltext418016261668605.png)
 
 
 ### Hi there 👋
