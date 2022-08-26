@@ -3,8 +3,11 @@
 ### Hi there 👋
 
 Soy estudiante de la carrera de Ingenieria en Sistemas Computacionales
+
 Cursando: 8vo Semestre 
+
 Progress: |█████████████████████████████████████████████-----| 90.0% Complete
+
 
 
 | Lenguajes en proceso | %  |
